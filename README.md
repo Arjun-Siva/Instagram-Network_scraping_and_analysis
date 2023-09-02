@@ -8,7 +8,8 @@ The script can be used to scrape the accounts in small batches. An adjacency lis
  Node2 Node1 Node5
  ```
  where Node1 follows Node2, Node3 and Node4. Similary Node2 follows Node1 and Node 5. Refer [Networkx representation](https://networkx.org/documentation/stable/reference/readwrite/edgelist.html "Networkx representation")
- 
+
+**Note: The script for scraping the Instagram web pages was created 2 years back and the CSS tags might have been changed**
 
 ## Requirements
 1. Python 3.x
